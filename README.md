@@ -3,7 +3,7 @@
 I'm **Zenan Huo** <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/man.svg" width="13"> <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/China.svg" width="13"/>
  , a master's student at the China University of Geosciences (Beijing). 
 
-# ⌨ Things I code with
+## ⌨ Things I code with
 <p>
   <img alt="Julia" src="https://img.shields.io/badge/-Julia-430098?style=flat-square&logo=Julia&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-764ABC?style=flat-square&logo=Python&logoColor=white" />
@@ -14,6 +14,6 @@ I'm **Zenan Huo** <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/man
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-# 💻 Open Source Work Stats
+## 💻 Open Source Work Stats
 
 ![Zenan's github stats](https://github-readme-stats.vercel.app/api?username=ZenanH&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
