@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <img alt="Julia" src="https://visitor-badge.glitch.me/badge?page_id=github.com/ZenanH" /></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/ZenanH" /></h1>
 
 I'm **Zenan Huo** <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/man.svg" width="13"> <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/China.svg" width="13"/>
  , a master's student at the China University of Geosciences (Beijing). 
