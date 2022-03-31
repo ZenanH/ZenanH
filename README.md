@@ -8,7 +8,7 @@ I'm **Zenan Huo** <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/man
   <a href="https://julialang.org" target="_blank">
    <img alt="Julia" src="https://img.shields.io/badge/-Julia-430098?style=flat-square&logo=Julia&logoColor=white"><a>
   <a href="https://www.python.org" target="_blank">
-   <img alt="Python" src="https://img.shields.io/badge/-Python-764ABC?style=flat-square&logo=Python&logoColor=white"><a>
+   <img alt="Python" src="https://img.shields.io/badge/-Python-D2691E?style=flat-square&logo=Python&logoColor=white"><a>
   <a href="https://www.docker.com" target="_blank">
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"><a>
   <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank">
