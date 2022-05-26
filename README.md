@@ -21,4 +21,6 @@ I'm **Zenan Huo** <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/man
 
 ## 💻 Open Source Work Stats
 
-![Zenan's github stats](https://github-readme-stats.vercel.app/api?username=ZenanH&show_icons=true&title_color=000&icon_color=00cc66&text_color=000000&bg_color=ffffff)
+<div align=left>
+ 
+![Zenan's github stats](https://github-readme-stats.vercel.app/api?username=ZenanH&show_icons=true&title_color=000&icon_color=00cc66&text_color=000000&bg_color=ffffff) [![github activity graph](https://activity-graph.herokuapp.com/graph?username=ZenanH&theme=github-light)](https://github.com/ZenanH/github-readme-activity-graph)
