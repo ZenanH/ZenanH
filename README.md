@@ -18,9 +18,3 @@ I'm **Zenan Huo** <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/man
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><a>
 </p>
-
-## 💻 Open Source Work Stats
-
-<div align=left>
- 
-![Zenan's github stats](https://github-readme-stats.vercel.app/api?username=ZenanH&show_icons=true&title_color=000&icon_color=00cc66&text_color=000000&bg_color=ffffff) [![github activity graph](https://activity-graph.herokuapp.com/graph?username=ZenanH&theme=github-light)](https://github.com/ZenanH/github-readme-activity-graph)
