@@ -1,8 +1,3 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-I'm **Zenan Huo** <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/man.svg" width="13"> <img src="https://cdn.jsdelivr.net/gh/ZenanH/ZenanH/images/China.svg" width="13"/>
- , a Ph.D. student at the Université de Lausanne (UNIL). 
-
 ## ⌨ Things I code with
 <p>
   <a href="https://julialang.org" target="_blank">
