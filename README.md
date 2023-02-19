@@ -11,7 +11,7 @@ PhD student at Université de Lausanne (UNIL-ISTE).
 - 🔭 Earth Sciences
 - 💡 Programming, hiking, sailing
 - 📕 ① Mandarin Chinese (Native language but low Chinese test scores), <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② English (Kindergarten level)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② English (≥Kindergarten level)
 - 📫 zenan.huo@outlook.com
 
 ## 🛠️ Languages and Tools 
