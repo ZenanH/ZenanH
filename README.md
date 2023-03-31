@@ -6,12 +6,12 @@
 ---
 
 ## 👨‍💻 About Me
-PhD student at Université de Lausanne (UNIL-ISTE).
 
-- ⛰️ Earth Sciences
-- 💡 Programming, hiking, dreaming?
-- 📕 ① Mandarin Chinese (Native language but low Chinese test scores), <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② English (≥Kindergarten level)
+- 💡 A realistic dreamer
+- ⛰️ PhD student in Earth Sciences
+- 🥰 Programming, hiking, badminton
+- 💬 Mandarin Chinese (Native language but low Chinese test scores)
+- 💬 English (≥Kindergarten level)
 - 📫 zenan.huo@outlook.com
 
 ## 🛠️ Languages and Tools 
