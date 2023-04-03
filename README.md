@@ -10,7 +10,7 @@
 - 💡 A realistic dreamer
 - ⛰️ PhD student in Earth Sciences
 - 🥰 Programming, hiking, badminton
-- 💬 Mandarin Chinese (Native language but low Chinese test scores)
+- 💬 普通话，简体中文 (母语但语文很差...)
 - 💬 English (≥Kindergarten level)
 - 📫 zenan.huo@outlook.com
 
