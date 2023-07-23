@@ -10,8 +10,7 @@
 - 💡 A realistic dreamer
 - ⛰️ PhD student in Earth Sciences
 - 🥰 Programming, hiking, badminton
-- 💬 普通话
-- 💬 English
+- 💬 简体中文, English
 - 📫 zenan.huo@outlook.com
 
 ## 🛠️ Languages and Tools 
