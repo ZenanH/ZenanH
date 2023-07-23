@@ -1,10 +1,3 @@
-<div id="header" align="center">
-<h1>👋 Hi there!</h1>
-<img src="./images/logo.gif" width="80%"/>
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 - 💡 A realistic dreamer
